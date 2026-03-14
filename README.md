@@ -1,3 +1,5 @@
+<img src="GitHub%20Banner%20Image%20by%20Canva.png" alt="GitHub Banner" width="100%">
+
 # 💫 About Me:
 🔭 I’m currently working as a Research Analyst at ZeTheta Algorithms<br>💬 Ask me about Energy AI, Predictive Maintenance, and Quantitative Research<br>📫 How to reach me: LinkedIn or Email<br>😄 Pronouns: He/Him<br>⚡ Fun fact: When I'm not coding, you can usually find me gaming with friends, watching movies and anime, or catching up on the latest manga!
 
